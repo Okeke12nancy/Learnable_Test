@@ -20,4 +20,4 @@ def nth_most_rate(list, n):
     return res
 
 
-print(nth_most_rate([5, 4, 5, 4, 5, 4, 4, 5, 3, 3, 3, 2, 2, 1, 5], 1))
+print(nth_most_rate([5, 4, 5, 4, 5, 4, 4, 5, 3, 3, 3, 2, 2, 1, 5], 2))
